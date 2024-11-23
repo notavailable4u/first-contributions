@@ -15,6 +15,11 @@
 - helo my name is lapulapu from filipino land.
 - Hello everyione, I'm Christian from Italy!
 
+- [Anshuman Bhandari](https://github.com/Anshuman-Bhandari)
+- [tasosbeast](https://github.com/tasosbeast)
+- [Akanksha Maurya](https://github.com/Akanksham12)
+- [Barun Rajak](https://github.com/Barungit)
+- [Bhasamrita Sarmah](https://github.com/bhasamritasarmah)
 - Hi I'm Shina. I'm very passionate about software development.
 - Hello! I am [Varun](https://github.com/MrVarun1)! I am from Telangana, India
 - Hello! I am Hence! (https://github.com/hencethepyramids)
@@ -5223,6 +5228,7 @@ guanj65
 - [Duniel Mesa Diaz](https://github.com/dunielm02) **Rigth in the middle. The journey begins...**
 - [Jeswin](https://github.com/Jesiwn)
 - [waltofalltrades]
+-[Abay-sankar](https://github.com/abay777)
 - [wagger]
 - [adeatt](https://github.com/adeatt)
 - [Juliusz](https://github.com/AdeJulius46)
@@ -5327,6 +5333,9 @@ guanj65
 - [Bo Pratt](https://github.com/bo-pratt)
 - [Hamza](https://github.com/doncarbon)
   Garima
+
+-[ViniciusGregorio](https://github.com/ViniciusGregorio)
+
 - [fadlisick](https://github.com/fadlisick)
 - [Mijuku](https://github.com/mijukuex)
 - [Nononoyeah](https://github.com/nononoyeah)
@@ -5966,11 +5975,11 @@ Jasmine
 -[j.f .keneddy]
 - [LSR]
 - [Peter Hilbert](https://github.com/pehilbert)
-[Sayantan Roy Chowdhury]
--[.kim](https//github.com/kim8584)
+- [Sayantan Roy Chowdhury]
+- [.kim](https//github.com/kim8584)
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
-- [Balmund()
--[Arshadakl] ()
+- [Balmund]()
+- [Arshadakl] ()
 - [Somssi Pathania](https://github.com/SOMSSI2110)
 - [Gabriel Fernandes](https://github.com/gabrielfernandeswebdev)
 - [Lakshya Mishra](https://github.com/mishrlaksh)
@@ -7467,6 +7476,7 @@ Philip Ambattu
 - [nonsleep1](https://github.com/nonsleep1)
 - [Vikbobvia](https://github.com/Vikbobvia/first-contributions)
 - [Hadi](https://github.com/morhadi/first-contributions)
+- [Bek Johansson] (https://github.com/thedevbek)
 - [Hadi Ubaidillah](https://github.com/hadiubaidillah/first-contributions)
 - [Bhargav Shirin](https://github.com/bhargavshirin)
 - [Johan Chate](https://github.com/TCLJOHANT)
@@ -8672,6 +8682,7 @@ murari2401
 - [judeigwe](https://github.com/judeigwe)
 - [Gamari](https://github.com/gamari)
 - [DanLi](https://github.com/Adan2333)
+- [Mark Vong](https://github.com/Mackerello)
 - [ChunHao](https://github.com/chuang8511)
 - [kossyprg](https://github.com/kossyprg)
 - [SujanShilakar] (https://github.com/SujanShilakar)
@@ -8687,6 +8698,7 @@ murari2401
 - [Anshuman Panda](https://github.com/PandaAnshuman)
 - [ maro114510 ](https://github.com/maro114510)
 - [Manish Agrawal](https://github.com/manishag777)
+- [ckt1022](https://github.com/ckt1022)
 - [Nick Reed]
 - [Andrei Dombrovschi](https://github.com/Dombrovschi)
 - [a-urabayashii](https://github.com/a-urabayashi)
